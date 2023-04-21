@@ -386,7 +386,7 @@ public class AjaxResidentsManager {
 
 			} else {
 				System.out.println("Invalid entry !");
-				;
+				
 			}
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
