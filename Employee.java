@@ -231,6 +231,7 @@ public class Employee {
 		} catch (Exception e1) {
 			// TODO Auto-generated catch block
 			System.out.println("Invalid entry");
+			break;
 		}
 
 		if (appManager == 1) {
